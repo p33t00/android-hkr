@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CAB-HKR</string>
+    <string name="start_screen">Home</string>
+    <string name="login_screen">Login</string>
+    <string name="services_screen">Services</string>
+    <string name="route_plans_screen">Route Plans</string>
+    <string name="mapbox_access_token">123abc</string>
+
+    <string name="message_screen">Message</string>
+    <string name="published_route_plans_screen">Published Route Plans</string>
+    <string name="identities_screen">Identities</string>
+    <string name="hkr_app_id">123abc</string>
+    <string name="hkr_app_key">123abc</string>
+</resources>
